@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @maolicheng81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- Experienced iOS Developer. 
-- Skilled in Swift, Objective-C. 
-- Crafting intuitive, 
-- innovative applications with a focus on user experience and code quality.
+- 👀 I’m interested in Experienced iOS Developer. 
+- 🌱 I’m currently learning Swift, Objective-C.
+- 💞️ I’m innovative applications with a focus on user experience and code quality.
